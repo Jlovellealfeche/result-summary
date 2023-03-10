@@ -1,0 +1,41 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500;600;700&display=swap');
+ $hankengrotesk: "Hanken Grotesk", sans-serif;
+
+// Primary
+
+$primary-Lightred: hsl(0, 100%, 67%);
+$primary-Orangey-yellow: hsl(39, 100%, 56%);
+$primary-Greenteal: hsl(166, 100%, 37%);
+$primary-Cobaltblue: hsl(234, 85%, 45%);
+
+// Primary-background
+
+$primarybg-Lightred: hsla(0, 92%, 74%, 0.150);
+$primarybg-Orangey-yellow: hsl(39, 100%, 56%, 0.150);
+$primarybg-Greenteal: hsl(166, 100%, 37%, 0.150);
+$primarybg-Cobaltblue: hsl(234, 85%, 45%, 0.150);
+
+
+//Neutral
+
+$neutral-White: hsl(0, 0%, 100%);
+$neutral-lightpink: hsl(351, 76%, 92%, .40);
+$neutral-Paleblue: hsl(221, 100%, 96%,);
+$neutral-Greentealpastel: hsl(166, 100%, 37%, .10);
+$neutral-Lightlavender: hsl(241, 100%, 89%);
+$neutral-Darkgrayblue: hsl(224, 30%, 27%);
+
+
+
+// Gradients
+
+/*--Gradients for background--*/
+
+$gradient-Lightslateblue : hsl(252, 100%, 67%);
+$gradient-Lightroyalblue : hsl(241, 81%, 54%);
+
+/*--Gradients for circle--*/
+$gradients-Violetblue: hsla(256, 72%, 46%, 1);
+$gradients-Persianblue: hsla(241, 72%, 46%, 0);
